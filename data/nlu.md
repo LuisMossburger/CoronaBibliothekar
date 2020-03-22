@@ -1,3 +1,25 @@
+## intent:greet
+- hallo
+- guten morgen
+- hi
+- guten tag
+- Hallo!
+- Moin
+- Servus
+- grüß Gott
+
+## intent:goodbye
+- tschüss
+- auf wiedersehen!
+- bis später
+- bye
+- Danke und auf Wiedershen
+- Bis dann
+- Mach's gut
+- Man sieht sich
+
+
+
 ## intent:what_is
 - Was ist das [Coronavirus](topic) 
 - Was hat es mit dem [Coronavirus](topic) auf sich
@@ -62,8 +84,8 @@
 - Weißt du ob es unterschiede zu [Sars](topic) gibt
 
 
-##intent:prpability_infection
-- Was ist die Wahrscheinlichkeit dass man COVID -19 kriegt?
+## intent:prpability_infection
+- Was ist die Wahrscheinlichkeit dass man COVID-19 kriegt?
 - Wie warscheinlich ist es, dass ich COVID-19 kriege
 - Wahrscheinlichkiet dass ich das bekomme
 - Risiko für mich
@@ -73,6 +95,12 @@
 - Chance Infektion
 - Mit welcher Wahrscheinlichkeit werde ich mich infizieren.
 
+## intent:infection_behavior
+- Wie gefährlich ist Corona?
+- Wie verläuft die COVID-19 Erkrankung?
+- Wie verläuft Corona?
+- Was für Symptome hat Corona?
+- Was passiert wenn jemand Covid-19 hat?
 
 ## intent:antibiotics
 - Sind Antibiotika wirksam bei der Vorbeugung oder Behandlung des COVID-19?
@@ -99,6 +127,20 @@
 - Gibt es bald einen Impfstoff 
 - Impfstoff für Corona
 
+## intent: why_quarantine
+- Warum muss ich in Quarantäne? 
+- Wann muss ich in Quarantäne? 
+- Wie lange muss ich in Quarantäne?
+- Länge der Quarantäne
+- Dauer der Quarantäne
+
+## intent: corona_test
+- Welche Tests gibt es? 
+- Gibt es Tests? 
+- Wie kann ich mich testen lassen?
+- Ablauf von Testverfahren 
+- Wie werden Tests durchgeführt?
+
 ## intent:current_infected
 - Wie viele bestätigte Corona-Virus Infektionen gibt es in Deutschland zur Zeit?
 - Wie viele bestätigte Corona-Virus Fälle gibt es in Deutschland zur Zeit?
@@ -111,3 +153,30 @@
 - Wie hoch sind die Infektionszahlen
 - Infektionszahlen
 - Wie viele Infiziert
+
+## intent:current_deaths
+- Wie viele Todesfälle gibt es aufgrund des Corona-Viruses in Deutschland zur Zeit?
+- Wie viele Todesfälle gibt es auf Grund des Corona-Viruses in Deutschland zur Zeit?
+- Wie viele Tote gibt es bis jetzt in Deutschland?
+- Anzahl Tode Deutschland
+- Wieviele Tote
+- Wieviele Tote gibt es bereits
+- Todeszahlen
+- Anzahl der Toten
+- Kannst du sagen wieviele bereits gestorben sind
+- Kannst du sagen wieviele bereits an Corona gestorben sind
+- Wieviele sind gestorben
+
+
+## intent:current_bundeslaender
+- Welche Bundesländer sind besonders stark von dem Corona-Virus betroffen?
+- Welche Bundesländer sind besonders stark von Covid19 betroffen?
+- Wo ist es am schlimmsten in Deutschland?
+- Anzahl Fälle Bundesländer
+- Welche Bundesländer sind am schwersten getroffen
+- In welchen Bundesländern ist es am schlimmsten
+- In welchem Bundeland sind die meisten Infizierten
+- In welchen Bundesländern sind die meisten personen infiziert
+- Welche Bundesländer haben die meisten infizierten
+- Bundeslaender infizierte
+
